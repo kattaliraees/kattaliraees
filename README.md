@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @kattaliraees
+- 👋 Hi, I’m Raees Kattali
+- Electronics Engineer 🫶
+- 💖 My primary interest is in Hardware designs, PCB Layout, Firmware in C/C++/Rust
+- I also does ⤵️
+- Mobile app development using iOS SDK in Obj-C/Swift
+- Crossplatform Apps in Flutter using Dart 
+- Scripting in Python 🐍
 
-<!---
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 
 kattaliraees/kattaliraees is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
