@@ -2,6 +2,6 @@
 - Electronics Engineer 🫶
 - 💖 My primary interest is in Hardware designs, PCB Layout, Firmware in C/C++/Rust
 - I also does ⤵️
-- Mobile app development using iOS SDK in Obj-C/Swift
-- Crossplatform Apps in Flutter using Dart 
+- iOS/iPadOS/MacOS/WatchOS App development using Obj-C/Swift
+- Crossplatform Apps in Flutter using Dart
 - Scripting in Python 🐍
