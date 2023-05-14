@@ -6,5 +6,5 @@
 - 💖 My primary interests are Hardware design, PCB Layout & Firmware/Embedded-Software dev in C/C++/Rust
 - I also does ⤵️
 - iOS/iPadOS/MacOS/WatchOS App development using Obj-C/Swift
-- Crossplatform Apps in Flutter using Dart
+- Crossplatform Apps using Flutter & Dart (Mobile, Desktop, Web)
 - Scripting in Python 🐍
