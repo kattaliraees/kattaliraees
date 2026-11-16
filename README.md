@@ -1,6 +1,5 @@
-
-- Mostly Hardware design, PCB Layout & Firmware/Embedded-Software dev in C/C++/Rust
-- and you may find some ⤵️
-- iOS/iPadOS/MacOS/WatchOS App development using Obj-C/Swift
-- Crossplatform Apps using Flutter & Dart (Mobile, Desktop, Web)
-- Scripting in Python 🐍
+- Mostly into **Hardware Design, PCB Layout & Embedded Firmware** (C/C++/Rust)
+- Occasionally working on other things too:
+  - **Apple Platforms** — iOS, iPadOS, macOS & watchOS (Swift/Obj-C)
+  - **Cross-Platform Development** — Mobile, Desktop & Web (Flutter/Dart)
+  - **Python** — Scripting, automation & tooling
